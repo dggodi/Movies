@@ -1,0 +1,9 @@
+C:\Users\dggodi\dev\workspace-visualstudio\workspace-entityFramework\movies5\movies5\bin\Debug\netcoreapp1.1\movies5.deps.json
+C:\Users\dggodi\dev\workspace-visualstudio\workspace-entityFramework\movies5\movies5\bin\Debug\netcoreapp1.1\movies5.runtimeconfig.json
+C:\Users\dggodi\dev\workspace-visualstudio\workspace-entityFramework\movies5\movies5\bin\Debug\netcoreapp1.1\movies5.runtimeconfig.dev.json
+C:\Users\dggodi\dev\workspace-visualstudio\workspace-entityFramework\movies5\movies5\bin\Debug\netcoreapp1.1\movies5.dll
+C:\Users\dggodi\dev\workspace-visualstudio\workspace-entityFramework\movies5\movies5\bin\Debug\netcoreapp1.1\movies5.pdb
+C:\Users\dggodi\dev\workspace-visualstudio\workspace-entityFramework\movies5\movies5\obj\Debug\netcoreapp1.1\movies5.AssemblyInfo.cs
+C:\Users\dggodi\dev\workspace-visualstudio\workspace-entityFramework\movies5\movies5\obj\Debug\netcoreapp1.1\movies5.dll
+C:\Users\dggodi\dev\workspace-visualstudio\workspace-entityFramework\movies5\movies5\obj\Debug\netcoreapp1.1\movies5.pdb
+C:\Users\dggodi\dev\workspace-visualstudio\workspace-entityFramework\movies5\movies5\obj\Debug\netcoreapp1.1\movies5.csprojResolveAssemblyReference.cache

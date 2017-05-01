@@ -21,22 +21,14 @@ namespace Movies5.Api.Controllers
             _db = db;
         }
 
-        //GET: movies
-        public async Task<IActionResult> Index()
-        {
-            return View(await _db.Movies.ToListAsync());
-        }
-
         [HttpGet]
         public IEnumerable<Movie> Get()
         {
             return _db.Movies;
         }
 
-        
-
         [HttpGet("{id}")]
-        public IActionResult Get(int id)
+        public ActionResult Get(int id)
         {
             Thread.Sleep(1000);
             var movie = _db.Movies.FirstOrDefault(m => m.Id == id);

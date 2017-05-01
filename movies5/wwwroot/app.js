@@ -11,10 +11,9 @@ export class App {
             { route:"about", moduleId:"about/about", 
                 title:"About", nav:true},
 
-            { route:"details", moduleId:"movies/details", name:"details", nav:false}
+            { route:"details/:id", moduleId:"movies/details", name:"details", nav:false},
+            { route: "edit/:id", moduleId: "movies/edit", name: "edit", nav: false }
         ]);
     }
 
 }
-
-
